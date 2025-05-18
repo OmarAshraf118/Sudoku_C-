@@ -1,0 +1,3 @@
+/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build/CMakeFiles/SudokuProject.dir
+/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build/CMakeFiles/edit_cache.dir
+/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build/CMakeFiles/rebuild_cache.dir

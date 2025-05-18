@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/SudokuProject.dir/src/main.cpp.o -c \"/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/main.cpp\"",
+  "file": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/main.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/SudokuProject.dir/src/SudokuBoard.cpp.o -c \"/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuBoard.cpp\"",
+  "file": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuBoard.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuBoard.cpp.o"
+},
+{
+  "directory": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/SudokuProject.dir/src/SudokuGame.cpp.o -c \"/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuGame.cpp\"",
+  "file": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuGame.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuGame.cpp.o"
+},
+{
+  "directory": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/SudokuProject.dir/src/SudokuSolver.cpp.o -c \"/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuSolver.cpp\"",
+  "file": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuSolver.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuSolver.cpp.o"
+},
+{
+  "directory": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/SudokuProject.dir/src/SudokuAdvancedChecks.cpp.o -c \"/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuAdvancedChecks.cpp\"",
+  "file": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuAdvancedChecks.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuAdvancedChecks.cpp.o"
+},
+{
+  "directory": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/SudokuProject.dir/src/SudokuGenerator.cpp.o -c \"/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuGenerator.cpp\"",
+  "file": "/mnt/14A2D5AAA2D5911A/Courses and Diplomas' materials/Software Diploma resources/C++ OOP content/OOP projects/C++ Project/Soduku Game/src/SudokuGenerator.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuGenerator.cpp.o"
+}
+]
